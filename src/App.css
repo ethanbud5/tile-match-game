@@ -36,7 +36,8 @@
 background: gray;
 width: 100px;
 height: 100px;
-margin:30px
+margin:30px;
+animation: App-logo-spin infinite 20s linear;
 }
 button{
   margin: 20px;
